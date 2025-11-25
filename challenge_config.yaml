@@ -21,7 +21,7 @@ leaderboard:
     schema:
       {
         "labels": ["RMSE"],
-        "default_order_by": "Total",
+        "default_order_by": "RMSE",
         "metadata": {
           "RMSE": {
             "sort_ascending": True,
